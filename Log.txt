@@ -1,0 +1,20 @@
+AVN ID : 45
+Flight Number : 1
+Airline Name : 
+Aircraft : Commercial
+Speed Recorded : 222
+Fine : 500000
+Tax (15%) : 75000
+Total Amount : 575000
+Payment Status : Paid
+---------------------------------------
+AVN ID : 922
+Flight Number : F-17
+Airline Name : 
+Aircraft : Commercial
+Speed Recorded : 475
+Fine : 500000
+Tax (15%) : 75000
+Total Amount : 575000
+Payment Status : Paid
+---------------------------------------
